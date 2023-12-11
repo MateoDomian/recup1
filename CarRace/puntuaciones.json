@@ -1,0 +1,97 @@
+[
+  {
+    "nombre": "ULI",
+    "puntaje": 20,
+    "tiempo": "0:2"
+  },
+  {
+    "nombre": "ULI",
+    "puntaje": 10,
+    "tiempo": "0:1"
+  },
+  {
+    "nombre": "SSS",
+    "puntaje": 60,
+    "tiempo": "0:6"
+  },
+  {
+    "nombre": "SSS",
+    "puntaje": 20,
+    "tiempo": "0:2"
+  },
+  {
+    "nombre": "SSS",
+    "puntaje": 10,
+    "tiempo": "0:1"
+  },
+  {
+    "nombre": "LAT",
+    "puntaje": 260,
+    "tiempo": "0:26"
+  },
+  {
+    "nombre": "LAT",
+    "puntaje": 190,
+    "tiempo": "0:19"
+  },
+  {
+    "nombre": "LAT",
+    "puntaje": 70,
+    "tiempo": "0:7"
+  },
+  {
+    "nombre": "DWA",
+    "puntaje": 20,
+    "tiempo": "0:2"
+  },
+  {
+    "nombre": "EDD",
+    "puntaje": 20,
+    "tiempo": "0:2"
+  },
+  {
+    "nombre": "GER",
+    "puntaje": 70,
+    "tiempo": "0:7"
+  },
+  {
+    "nombre": "GER",
+    "puntaje": 30,
+    "tiempo": "0:3"
+  },
+  {
+    "nombre": "MAT",
+    "puntaje": 190,
+    "tiempo": "0:19"
+  },
+  {
+    "nombre": "DWW",
+    "puntaje": 20,
+    "tiempo": "0:2"
+  },
+  {
+    "nombre": "MAT",
+    "puntaje": 230,
+    "tiempo": "0:23"
+  },
+  {
+    "nombre": "MAT",
+    "puntaje": 160,
+    "tiempo": "0:16"
+  },
+  {
+    "nombre": "GAB",
+    "puntaje": 170,
+    "tiempo": "0:12"
+  },
+  {
+    "nombre": "GAB",
+    "puntaje": 60,
+    "tiempo": "0:6"
+  },
+  {
+    "nombre": "GAB",
+    "puntaje": 40,
+    "tiempo": "0:4"
+  }
+]
